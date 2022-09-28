@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Gabriel Asaf!
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Gabriel Asaf!
 ====================================================================================================================================
 
 Desenvolvedor Front-end Jr. Bacharel em Direito. Estudante de Desenvolvimento de Software na Trybe. 
