@@ -18,11 +18,37 @@ Desenvolvedor Front-end Jr. Bacharel em Direito. Estudante de Desenvolvimento de
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-Tenho 24 anos e sou mineiro de Belo Horizonte. Já me graduei em Direito na Faculdade de Direito Milton Campos e atualmente estudo desenvolvimento web na Trybe. Sou apaixonado pela literatura e pela expansão do conhecimento das diversas culturas ao redor do mundo. Tenho experiência com soluções alternativas de conflitos (como a mediação) e no meio administrativo. No meio da programação, possuo conhecimentos voltados ao escopo Front-end (HTML | CSS | JS | REACT | Redux | Context API e Hooks | RTL ) e estou atualmente na jornada de Back-end.
+###Literatura
 
-(\*\*\*)
+Nascido e criado em Belo Horizonte, MG, Brasil, sempre fui muito interessado no mundo da literatura, tanto para ler quanto para escrever e com isso desenvolvi uma de minhas habilidades, a criatividade. Criatividade e persistência! Ambas características ajudaram a cobrir quando algo mais faltou, e assim fui galgando pequenas conquistas através do tempo, sendo elas pessoais, acadêmicas e profissionais.
 
-I'm 24 years old, born in Belo Horizonte, Minas Gerais (BR). I graduated from Law School (Milton Campos Law School) and I'm studying web development in Trybe. I'm passionate about literature, writing, and learning about new cultures all across the globe. I've got experience in the alternative ways to solve conflicts (mediation, arbitration) and in the administrative field. In the web/software development field, I've got knowledge of some of the main Front-end "tools", like React and a lot of its frameworks (like Redux, Context API, Hooks, RTL, etc). I've got experience with HTML and CSS, and the programming language I use the most is JavaScript. At the moment, I'm studying Back-end tools at the same institution (Trybe) and learning Caché ObjectScript by myself.
+###Advogado e LGPD
+
+Estudante de escola pública, e ainda com 17 anos ingressei na faculdade de Direito das Faculdades Milton Campos com bolsa de estudos integral.  Neste período, me dediquei na aprendizagem dos métodos de negociação e resoluções alternativas de conflitos, como a mediação e arbitragem. Justamente nessa área consegui meu primeiro estágio (CAMARB - Câmara de Mediação e Arbitragem Empresarial) e um de meus grandes orgulhos, o segundo lugar geral na competição nacional de mediação da própria Câmara (edição 2018).
+ 
+Além de tais métodos, busquei também me aprofundar um pouco mais na relação do Direito com a tecnologia, principalmente no ramo da LGPD (Lei Geral de Proteção de Dados), tema que foi pauta do meu Trabalho de conclusão de curso. Neste caminho, comecei a me apaixonar e a me encontrar mais na tecnologia.
+
+###Dev
+
+Em 2021, mesmo formado e com OAB em mãos, decidi migrar para carreira de pessoa desenvolvedora web e iniciei meus estudos da Trybe, no curso de desenvolvimento web que tem sua metodologia voltada para projetos em que já aprendi e desenvolvi projetos com (inclua as técnologias/stacks) e metodologias ágeis.
+
+<p align="center">(\*\*\*)</p>
+
+###Literature
+
+Born and raised in Belo Horizonte, MG, Brazil, I have always been very interested in the literature world, both reading and writing. As a natural consequence, creativity has been one of my main qualities throughout my 24 years. Creativity and persistence! All two helped me to cover the characteristics I may lack and conquer the small victories I’ve acquired through time, personal, academic, and professional.
+
+###Law School and GDPL
+
+I have always studied in public schools, and by the age of 17, I got into Milton Campos Law School with my first scholarship (50%). A year after that I finally acquired the second one (now fully covered). As my college years went by, I became interested in negotiation studies and alternative ways to solve conflicts as well. Because of these, I got my first internship in CAMARB (Business Arbitration Chamber Brasil) and also got one of my most incredible academic pride as vice-champion in the National Mediation Competition (2018 edition). 
+
+Besides those fields, I’ve also deepened myself into the studies of the relationship between Law and technology, mainly about the GDPL (General Data Protection Law), one that has also been the theme of my final paper. Because of that, I started to fall in love and find myself more in the tech world. 
+
+###Dev
+
+Even after succeeding in the Order exam of 2021 (Law institution in Brazil), I risked it all and started the process to change my career. In 2022 I got accepted into Trybe (A software development school, focused on the web) and started to learn more about programming on the server side and the client side. Since then, I’ve been happily developing myself more both in the hard skills required by the dev market, and the soft skills needed to be a better worker and co-worker.
+
+
 
 * 🖥️  See my portfolio at [Portifolio](http://asafsportifolio.herokuapp.com/)
 * ✉️  You can contact me at [gabrielasaf10@gmail.com](mailto:gabrielasaf10@gmail.com)
