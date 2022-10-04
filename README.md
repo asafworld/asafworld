@@ -30,7 +30,7 @@ Além de tais métodos, busquei também me aprofundar um pouco mais na relação
 
 ### Dev
 
-Em 2021, mesmo formado e com OAB em mãos, decidi migrar para carreira de pessoa desenvolvedora web e iniciei meus estudos da Trybe, no curso de desenvolvimento web que tem sua metodologia voltada para projetos em que já aprendi e desenvolvi projetos com (inclua as técnologias/stacks) e metodologias ágeis.
+Em 2021, mesmo formado e com OAB em mãos, decidi migrar para carreira de pessoa desenvolvedora web e iniciei meus estudos na Trybe, no curso de desenvolvimento web que tem sua metodologia voltada para aprendizado ativo. Nesse meio aprendi e desenvolvi projetos voltados ambos para Front e Back end, usufruindo do React, do gerenciamento de informações (estados) através de Redux ou Context API e Hooks (pelo Front-end), bem como das ferramentas e utilidades do Docker somados a banco de dados próprios (com API REST e MySQL). Tudo em complemento com metodologias ágeis.
 
 <p align="center">(\*\*\*)</p>
 
